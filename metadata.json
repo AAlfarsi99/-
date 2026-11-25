@@ -1,0 +1,8 @@
+{
+  "name": "Remix الورقة العُمانية",
+  "description": "لعبة ورق عمانية احترافية بتصميم واقعي، رسوم متحركة انسيابية، وقواعد كلاسيكية دقيقة تدعم التحدي واللعب التفاعلي الممتع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
